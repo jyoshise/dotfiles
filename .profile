@@ -22,4 +22,4 @@ if [ -d "$HOME/bin" ] ; then
 fi
 
 export PATH=$PATH:/usr/local/go/bin
-export GITHUB_TOKEN=92c8010951d882622571d2961f42cd2b1fe3a0d4
+export GITHUB_TOKEN=
